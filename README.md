@@ -1,14 +1,14 @@
 [![Choaib ELMADI - FPGA](https://img.shields.io/badge/Choaib_ELMADI-FPGA-8800dd)](https://elmadichoaib.vercel.app) ![Status - Learning](https://img.shields.io/badge/Status-Learning-2bd729)
 
-# Working with FPGA and MIPS
+# Working with FPGA and MIPS-based Systems
 
-This repository contains my hands-on work and practical sessions (TPs) focusing on FPGA programming and MIPS-based systems. Using the ALTERA Cyclone V SoC DE-1 SoC board, I explore various embedded system applications.
+This repository contains my hands-on work and practical sessions (TPs) focusing on FPGA programming and MIPS-based systems. Using the `ALTERA Cyclone V SoC DE-1 SoC` board, I explore various embedded system applications.
 
 These sessions include tasks such as assembly and C programming for embedded systems, system design using Intel Monitor Program, and working with NIOS II processors. The repository will be continuously updated with new sessions and implementations.
 
 <div align="center">
 
-![ALTERA Cyclone V SoC DE-1 SoC Board](./Images/ALTERA-cyclone-v-SoC-de-1-board.png)
+![ALTERA Cyclone V SoC DE-1 SoC Board](./Images/altera-cyclone-v-soc-de-1-board.png)
 
 </div>
 
@@ -27,7 +27,7 @@ These sessions include tasks such as assembly and C programming for embedded sys
 
 - **Browse the sessions**: Explore each session folder to view my implementations.
 - **Code and Projects**: Access the assembly and C files used for NIOS II programming.
-- **Exercises**: Solutions and explanations for exercises are included for learning purposes.
+- **Exercises**: Solutions for exercises are included for learning purposes.
 
 ## Practical Sessions (TPs)
 
