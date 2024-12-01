@@ -2,13 +2,23 @@
 
 # Working with FPGA and MIPS-based Systems
 
-This repository contains my hands-on work and practical sessions (TPs) focusing on FPGA programming and MIPS-based systems. Using the `ALTERA Cyclone V SoC DE-1 SoC` board, I explore various embedded system applications.
+This repository contains my hands-on work and practical sessions (TPs) focusing on FPGA programming and MIPS-based systems. Using the `ALTERA Cyclone V DE-1 SoC` board, I explore various embedded system applications.
 
 These sessions include tasks such as assembly and C programming for embedded systems, system design using Intel Monitor Program, and working with NIOS II processors. The repository will be continuously updated with new sessions and implementations.
 
 <div align="center">
 
-![ALTERA Cyclone V SoC DE-1 SoC Board](./Images/altera-cyclone-v-soc-de-1-board.png)
+![ALTERA Cyclone V DE-1 SoC Board](./Images/altera-cyclone-v-de-1-soc-board.png)
+
+</div>
+
+## ALTERA Cyclone V DE-1 SoC Board
+
+The DE-1 SoC board is a `D`evelopment and `E`ducation board that integrates an ALTERA SoC FPGA with an embedded ARM processor. It is included as an education platform in the ALTERA University Program. Here is the board block diagram:
+
+<div align="center">
+
+![ALTERA Cyclone V DE-1 SoC Board](./Images/de1-soc-diagram.png)
 
 </div>
 
