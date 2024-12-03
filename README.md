@@ -43,4 +43,6 @@ The DE-1 SoC board is a `D`evelopment and `E`ducation board that integrates an A
 
 ### [TP 1 - Introduction to NIOS II and Embedded Programming](./TP1/)
 
+### [TP 2 - Input and Output Peripherals Using NIOS II Interruptions](./TP2/)
+
 Feel free to explore and contribute if you have any suggestions or improvements.
