@@ -1,0 +1,10 @@
+	component nios2_computer is
+		port (
+			clk_clk                             : in  std_logic                    := 'X';             -- clk
+			key1_external_connection_export     : in  std_logic                    := 'X';             -- export
+			leds_external_connection_export     : out std_logic_vector(7 downto 0);                    -- export
+			reset_reset_n                       : in  std_logic                    := 'X';             -- reset_n
+			switches_external_connection_export : in  std_logic_vector(7 downto 0) := (others => 'X')  -- export
+		);
+	end component nios2_computer;
+
